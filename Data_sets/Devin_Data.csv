@@ -1,0 +1,247 @@
+Turtle ID,Accession #,Date of Death/Sample,Bacteriology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cause of Death/Ilness Identified (put in diagnosis here),Cause of Death/Illness Bacteria Related (Y/N)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Sample Location,Acinetobacter sp.,Aeromonas sp.,Aeromonas hydrophila,Aeromonas sobria,Alcaligenes faecalis,Alcaligenes xylosoxidans,Bacillus sp.,Bacillus cereus,Burkholderia cepacia,Chromobacterium violaceum,Citrobacter sp.,Citrobacter freundii,Clostridium sp.,Corynebacterium sp.,Enterics,Enterobacter sp.,Enterococcus sp.,Escherichia coli,Fungi,Gram Negative Non-fermenter,Gram Negative Rod,Gram Positive Rod,Gram Negative pleomorphic Rod,Klebsiella pneumoniae,Klebsiella oxytoca,Listonella anguillarum,Mixed anaerobes,Mixed Bacterial Growth,Moraxella sp.,Moraxella osloensis,Morganella sp.,Morganella morganii,Mycobacterium sp. (Rapidly-Growing),Negative Culture Anaerobes,Negative Culture Salmonella,Nocardia sp.,Ochrobactrum sp.,Pantoea sp.,Pasteurella sp.,Penicillium sp.,Photobacterium damselae,Providencia sp.,Proteus sp.,Proteus mirabilis,Proteus vulgaris,Pseudomonas sp.,Pseudomonas aeruginosa,Pseudomonas pseudoalcaligenes,Pseudomonas putida,Rhodococcus equi,Salmonella sp.,Shewanella sp.,Shewanella putrefaciens,Sphingomonas paucimobilis,Staphylococcus sp.,Streptococcus sp.,Tsukamurella sp.,Vibrio sp.,Vibrio alginolyticus,Vibrio fluvialis,Vibrio harveyi,Vibrio parahaemolyticus,Vibrio vulnificus,Negative Culture Vibrio sp.,Isolated,Sensitivity Test (Y/N),,
+Cc2002-01,C023440450,12/9/2002,Coelomic Swab,,,,,,,,,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,Pseudomonas aeruginosa and Vibrio sp.,Y,"Ulcerative necrotizing bacterial enterocolitis, resulted in secondary acute bacterial septicemia.  Possible underlying metabolic bone disease",Y
+Cc2002-02,C022690264,9/24/2002,Fecal Swab,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,Salmonella sp.,Y,N/A,
+Cc2002-04,C030220451,1/21/2003,Coelmic Swab,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,1,,,,1,,,,,,,,N,Underlying metabolic bone disease,N
+Cc2002-06,C022690263,9/24/2002,Fecal Swab,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,Gram Negative Non-fermenter,Y,N/A,
+Cc2002-08,C023020369,10/28/2002,Coelomic Swab,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Secondary acute bacterial septicemia,Y
+Cc2002-09,C023270357,11/22/2002,Intestinal Swab,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,N,Metabolic bone disease along with possible secondary gastroenteritis and acute bacterial inflammation,Y
+Cc2002-09,C023270357,11/22/2002,Visceral Organs Swab,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,1,,,,,,,,,Y
+Cc2002-10,C023640192,12/29/2002,Coelomic Swab,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Metabolic bone disease and superficial bacterial epidermidis,Y
+Cc2002-13,C022880379,10/14/2002,Fecal Swab,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,N,Underlying metabolic bone disease and a possible Vit. A deficiency,N
+Cc2002-14,C023340209,11/26/2002,Intestinal Swab,,,,,,1,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Acute bacterial septicemia,Y
+Cc2002-18,C023060420,11/1/2002,Intestine Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,Salmonella sp.,Y,Septicemia secondary to a possible bacterial enteritis,Y
+Cc2002-19,C023440448,12/9/2002,Coelom Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,1,,,,,,1,,,,,,"Salmonella sp., Shewanella putrefaciens and Vibrio alginolyticus",Y,Ulcerative necrotizing bacterial enterocolitis and a secondary acute bacterial septicemia,Y
+Cc2002-24,C030520417,2/20/2003,Coelomic Swab,,,,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,,N,Unknown,
+Cc2002-25,C040420328,2/7/2004,Body Cavity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,N,Acute secondary bacterial septicemia,Y
+,,,Cloacal Swab,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,,,,Y
+Cc2003-08,C033640386,12/26/2003,Coelomic Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,1,,,,,,,,,Salmonella sp.,Y,Acute bacterial septicemia,Y
+Cc2003-11,C033030454,10/28/2003,Intestine,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,1,,,,,,,Salmonella sp.,Y,Acute bacterial septicemia,Y
+Cc2003-12,C032950437,10/20/2003,Coelomic Swab,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,1,,,,,,,,,,N,N/A,
+Cc2003-13,C302880364,10/13/2003,Yolk sac,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,N,N/A,
+Cc2003-13,C302880364,10/13/2003,Intestine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,1,,,,
+Cc2003-16,C032960317,10/22/2003,Swab,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,,
+Cc2003-20,C033110398,11/6/2003,Gut,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,,N,Gut stasis and subsequent bacterial overgrowth ,Y
+Cc2003-21,C033210184,11/13/2003,Intestine,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,Salmonella sp.,Y,N/A,
+Cc2003-22,C033330121,11/28/2003,Coelomic Swab-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,Y,N/A,
+Cc2003-22,C033330121,11/28/2003,Coelomic Swab-2,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,
+Cc2003-28,C040250127,1/23/2004,Feces,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,,,,,1,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,N/A,
+Cc2003-30,C041000281,4/8/2004,Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,Y,N/A,
+Cc2003-48,C050410433,2/9/2005,Body Cavity Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,N/A,
+Cc2003-48,C050410433,2/9/2005,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,,,,,,,
+Cc2003-51,C051060215,4/15/2005,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,,N,Acute septicemia,Y
+Cc2004-05,C042880327,10/11/2004,Coelomic Swab,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N/A,
+Cc2004-06,C042930140,10/17/2004,Coelomic Swab,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,Y,Gut stasis and subsequent bacterial overgrowth and an acute secondary septicemia,Y
+Cc2004-08,C042990217,10/22/2004,Coelomic Swab,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,N,Necrotizing esophagitis and acute septicemia and possible metabolic bone disease,Y
+Cc2004-10,C043200184,11/12/2004,Coelomic Swab,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,Y,Metabolic bone disease,N
+Cc2004-11,C050210295,1/20/2005,Coelomic Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,Y,Acute bacterial septicemia,Y
+Cc2004-12,C051060214,4/15/2005,Coelomic Swab,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,N,Acute septicemia,Y
+Cc2004-12,C051060214,4/15/2005,Cloacal Swab,1,,,,,,1,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,,Y
+Cc2004-19,C052360262,8/22/2005,Body Cavity Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,1,,,,,,,,N,Bacterial enteritis; Septicemia,Y
+Cc2004-26,C061010230,4/8/2006,Cloacal Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,1,,1,,,,,,,Alpha Streptococcus,N,N/A,
+Cc2005-08,C052520291,9/8/2005,Cloacal Swab,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,1,,,,,,,Aeromonas sp.,Y,Bacterial yolk sacculitis and yolk coelomitis,Y
+Cc2005-08,C052520291,9/8/2005,Body Cavity Swab,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,Shewanella sp.,Y,,Y
+Cc2005-09,C052520288,9/8/2005,Body Cavity Swab,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,Aeromonas sp.,N,Yolk coelomitis and acute bacterial septicemia,Y
+Cc2005-09,C052520288,9/8/2005,Cloacal Swab,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,Y,,Y
+Cc2005-13,C053050175,10/24/2005,Heart Swab,,,,,,,,,,,,1,,,1,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,N,Suggestive of a necrotizing bacterial enterocolitis hepatopathy and secondary acute septicemia,Y
+Cc2005-14,C052990365,10/22/2005,Heart Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,Y,Suggestive of bacterial enterocolitis and acute septicemia,Y
+Cc2005-15,C052990387,10/22/2005,Heart Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,1,,,1,,,,,,,Y,Suggestive of an acute septicemia and possible intestinal or more advanced pulmonary disease,Y
+Cc2005-16,C052990364,10/22/2005,Heart Swab,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,Y,Major contributing factor is concurrent (or secondary) acute bacterial septicemia,Y
+Cc2005-19,C052990359,10/22/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,1,,,,,,,,N,Acute septicemia,Y
+Cc2005-20,C053000307,10/26/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,Necrotizing bacterial enteritis and secondary septicemia,Y
+Cc2005-22,C060270366,1/24/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,Salmonella sp.,Y,Sguggestive of bacterial enteritis and possible phyiologic imbalance (e.g. metabolic bone disease),Y
+Cc2005-23,C053050167,10/28/2005,Heart Swab,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,1,,,,,,1,,,,,,,,,,,,,Y,Necrotizing bacterial gastroenteritis and secondary acute septicemia,Y
+Cc2005-26,C053050179,10/28/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,,,,Shewanella putrefaciens,Y,"Bacterial enteritis, coelomitis and acute secondary septicemia",Y
+Cc2005-28,C052990385,10/23/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,Shewanella putrefaciens,Y,Necrotizing bacterial enteritis and secondary acute septicemia,Y
+Cc2005-30,C052990384,10/24/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,1,,,,,,,Salmonella sp.,Y,Necrotizing bacterial enteritis and secondary acute septicemia,Y
+Cc2005-33,C053050135,10/31/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,1,1,,,,,,,,,,,,,,,1,,,Pseudomonas aeruginosa,Y,"Suggests ileus, leading to possible bacterial overgrowth within GI tract",Y
+Cc2005-37,C053190145,11/13/2005,Cloacal Swab,,1,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,Salmonella sp.,Y,Severe bacterial enteritis and septicemia,Y
+Cc2005-37,C053190145,11/13/2005,Body Cavity Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
+Cc2005-41,C060100283,1/7/2006,Heart Swab,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,Pseudomonas aeruginosa and Shewanella sp.,Y,Necrotizing bacterial enterocolitis and acute septicemia,Y
+Cc2005-45,C052570236,9/13/2005,Cloacal Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,Shewanella putrefaciens and Salmonella sp.,Y,Acute to subacute bacterial coelomitis/septicemia,Y
+,,,Body Cavity Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,,,,,,,Y
+Cc2005-46,C052710293,9/21/2005,Heart Swab,,,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Citrobacter freundii,Y,Possible choke and acute septicemia,Y
+Cc2005-47,C06066035,3/3/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,Shewanella putrefaciens,Y,Bacterial enterocolitis and possible intestinal perforation,Y
+Cc2005-49,C052910228,10/13/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Y,Acute septicemia,Y
+Cc2005-50,C05710294,9/21/2005,Heart Swab,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,Y,Bacterial gastroenteritis/acute septicemia,Y
+Cc2005-51,C052720293,9/28/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,1,,,,,,,,1,,,,,,,,Y,Necrotizing bacterial enteritis/septicemia,Y
+Cc2005-52,C053620135,12/24/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,Y,Bacterial enterocolitis and acute septicemia,Y
+Cc2005-58,C053010285,10/27/2005,Heart Swab,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,1,,,,,,1,,,,,,1,,,,,,,,Y,Servere bacterial enteritis and secondary acute septicemia,Y
+Cc2005-59,C053290315,11/23/2005,Heart Swab,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,,1,,Shewanella putrefaciens and Salmonella sp.,Y,Necrotizing bacterial enterocolitis and upper/lower respiratory disease,Y
+Cc2005-60,C053060200,11/1/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,Y,Lower respiratory disease and underlying metabolic problem,N
+Cc2005-61,C060480250,2/16/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Gram negative bacteria present and secondary acute bacterial septicemia,Y
+Cc2005-66,C060310216,1/30/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,Shewanella putrefaciens and Salmonella sp.,Y,Underlying metabolic problem and/or nonregenerative anemia,N
+Cc2005-67,C052710277,9/26/2005,Body Cavity Swab,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Acute septicemia with possible impaction and/or ileus,Y
+Cc2005-68,C052630208,9/16/2005,Cloacal Swab,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,Salmonella sp.,Y,"Gram negative bacterial enteritis, hepatitis and acute secondary septicemia",Y
+Cc2005-69,C052850154,10/10/2005,Skin Swab,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,"Alcaligenes faecalis and Vibrio sp,",Y,Necrotizing bacterial enteritis and subsequent acute septicemia,Y
+Cc2005-71,C053190149,11/12/2005,Heart Swab,,,1,,,,,,,,,,,1,,1,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,Y,Severe bacterial colitis/typhlitis and possible acute secondary septicemia,Y
+Cc2005-72,C053050177,10/30/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Acute septicemia,Y
+Cc2005-74,C053000334,10/26/2005,Heart Swab,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,Pseudomonas aeruginosa,Y,Bacterial enteritis and acute septicemia,Y
+Cc2005-75,C052710278,9/25/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"Acute bacterial colitis, yolk sacculitis and secondary septicemia",Y
+Cc2005-77,C052710276,9/25/2005,Body Cavity Swab,,,,1,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,Salmonella sp.,Y,Necrotizing bacterial enterocolitis,Y
+Cc2005-79,C061210190,4/28/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,Pseudomonas aeruginosa,Y,Metabolic/physiological imbalacne,N
+Cc2005-81,C060550312,2/23/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Bacterial enteritis and secondary acute septicemia,Y
+Cc2005-83,C053190152,11/11/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,Pseudomonas aeruginosa and Pseudomonas sp.,Y,Severe bacterial enterocolitis and secondary acute septicemia with underlying metabolic disorder,Y
+Cc2005-84,C053120225,11/5/2005,Heart Swab,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,Y,Severe bacterial enteritis and secondary acute septicemia,Y
+Cc2005-86,C052830016,10/7/2005,Heart Swab,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Y,Acute septicemia and possible metabolic problem,Y
+Cc2005-87,C052730119,9/29/2025,Heart Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,Shewanella sp. and Aeromonas sp.,Y,Necrotizing bacterial enteritis and secondary acute septicemia,Y
+Cc2005-88,C052770141,10/1/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,Pseudomonas aeruginosa and Shewanella putrefaciens,Y,Severe bacterial enterocolitis and probable acute secondary bacterial septicemia ,Y
+Cc2005-89,C053050166,10/28/2005,Heart Swab,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,,Y,Possible ileus and suggestive acute bacterial septicemia,Y
+Cc2005-90,C053080185,11/2/2005,Heart Swab,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,Pseudomonas sp. and Vibrio sp.,Y,Acute septicemia and possible underlying metabolic problem,Y
+Cc2005-91,C053050178,10/29/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,1,,,Shewanella putrefaciens,Y,Suggestive of both upper respiratory disease and possible intestinal rupture/leakage.  Possible underlying metabolic problem,?
+Cc2005-93,C052830017,10/7/2005,Heart Swab,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,Y,Acute gastroenteritis,Y
+Cc2005-94,C053080182,11/2/2005,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,Pseudomonas aeruginosa and Vibrio sp.,Y,Bacterial esophagitis/gastritis and acute septicemia,Y
+Cc2005-98,C053080178,11/2/2005,Heart Swab,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,Y,Severe bacterial enterocolitis and secondary acute septicemia ,Y
+Cc2005-99,C061150294,4/22/2006,Heart Swab,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,Shewanella putrefaciens and Salmonella sp.,Y,Metabolic bone disease and possible acute septicemia,Y
+Cc2005-103,C061700107,6/16/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,Shewanella putrefaciens,Y,N/A,
+Cc2005-108,C061160370,4/25/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Branching fungal hyphae within areas of inflammation and necrosis,N
+Cc2005-109,C062360374,8/22/2006,Heart Swab,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,"Pseudomonas aeruginosa, Aeromonas sp. and Providencia sp.",Y,Systemic mycosis with branching septate fungal hyphae ,N
+Cc2005-110,C061730291,6/21/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,,,,Shewanella putrefaciens,Y,Possible nutritional and/or physiological imbalance and possible acute bacterial septicemia,Y
+Cc2005-111,C060100280,1/7/2006,Heart Swab,,,,,,,1,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,Y,Acute necrotizing bacterial enteritis and secondary septicemia,Y
+Cc2005-121,C062900486,10/16/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,Y,Presence of gram negitive bacteria within intestine and heart,Y
+Cc2005-124,C070320467,1/31/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N/A,
+Cc2006-3,C0709900219,4/6/2007,Cloacal Swab,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,Shewanella putrefaciens and Aeromonas sp,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-7,C0709900219,4/6/2007,Cloacal Swab,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,1,,,,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-08,C062900487,10/14/2006,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,Vibrio sp.,Y,"Servere segmental, acute, necrotizing bacterial enteritis and septicemia, with presence of gram negive bacteria",Y
+Cc2006-09,C063000399,10/26/2006,Heart Swab,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,Aeromonas sp. and Vibrio sp.,Y,Gut stasis and/or a subsequent bacterial overgrowth and an acute enterotoxemia/septicemia,Y
+Cc2006-10,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,1,,,,,,,Salmonella sp.,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-11,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,1,,,Vibrio parahaemolyticus,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-12,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,1,,,,,,,Pseudomonas aeruginosa,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-14,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,1,,,,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-15,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,1,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-16,C0709900219,4/6/2007,Cloacal Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-17,C0709900219,4/6/2007,Cloacal Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-19,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,1,,,,1,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-21,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-22,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-23,C0709900219,4/6/2007,Cloacal Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-24,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,,,1,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-25,C0709900219,4/6/2007,Cloacal Swab,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-26,C0709900219,4/6/2007,Cloacal Swab,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,Y,*Sample taken from exposed (Vibrio sp. and Salmonella sp.) turtles in FCA,
+Cc2006-27,C071140269,4/21/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Acute septicemia and vascular congestion in loop of intestine is indicative of an ongoing eneritis,Y
+Cc2006-28,C072150288/C081230394,8/2/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,N,*Euthanized on 4/29/2008-chronic bloater; low grade septicemia and underlying metabolic bone disease,N
+Cc2006-29,C072150288/C081230394,8/2/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,,,,,N,*Euthanized on 4/29/2008-chronic bloater; low grade septicemia and underlying metabolic bone disease,N
+Cc2006-30,C072150288/C081230394,8/2/2007,Cloacal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,,,,,N,*Euthanized on 4/29/2008-chronic bloater; low grade septicemia and underlying metabolic bone disease,N
+Cc2006-33,C073210277,11/16/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Severe consolidation of the pulmonary tissues,N
+Cc2007-1,C072330348,8/20/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,Y,N/A,
+Cc2007-4,C072980384,10/24/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Possible metabolic bone disease with acute bacterial septicemia,Y
+Cc2007-5,C072960289,10/21/2007,Heart Swab,,,,,,,1,,,,,,,,,,,,,2,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Suggestive of metabolic bone disease and an acute septicemia,Y
+Cc2007-6,C072960291,10/22/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,3,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,N,"Presence of metabolic bone disease, as well as prolonged inanition",N
+Cc2007-7,C073060222,11/1/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,,N,Necrotizing bacterial enteritis and physiological imbalance,Y
+Cc2007-9,C073280107,11/23/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,N,Possible gut stasis with acute bacterial septicemia,Y
+Cc2007-11,C073040400,10/30/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,Severe bacterial enteritis/coelomitis,Y
+Cc2007-12,C073120289,11/6/2007,Heart Swab,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Possible intestinal rupture,Y
+Cc2008-16,C083110420,11/5/2008,Heart Swab,,,,,,1,,,,,,,,,,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Severe bacterial colitis/acute septicemia,Y
+Cc2008-38,C101700190,6/16/2010,Swab,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,N,Septicemia,Y
+Cc2009-4,C092780155,10/2/2009,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,Unknown,
+Cc2009-18,C100480362,2/6/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Marked granulomatous encephalitis and pneumonia with intralesional hyphae,N
+Cc2010-01,C102320251,8/19/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Emaciation and inflammation of the colonic mucosa,N
+Cc2010-03,C102360393,8/22/2010,Heart Swab,,,,,,,,1,,,,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Related to mild inflammation in the liver,N
+Cc2010-05,C102360419,8/21/2010,Heart Swab,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,N,Large number of bacteria in the colon,Y
+Cc2010-11,C102640308,9/20/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,Unknown,
+Cc2010-12,C102360328,8/22/2010,Heart Swab,,,,,,,,1,,,,,,,,1,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Secondary to a bacterial colitis,Y
+Cc2010-13,C102380320,8/25/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Bacterial enterocolitis with evidences of a systemic bacterial spreading,Y
+Cc2010-20,C102370274,8/24/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Septicemia,Y
+Cc2010-22,C102370276,8/24/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Primary bacterial enteritis,Y
+Cc2010-23,C102380318,8/25/2010,Heart Swab,,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Possible bacterial infection,Y
+Cc2010-24,C102420213,8/27/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,N,Unknown,
+Cc2010-54,C103480299,12/13/2010,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,1,,,,,,,,N,Unknown,
+Cc2010-59,C110040401,12/31/2010,Heart Swab,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,1,,,,,,,,,,1,,,,,,1,,,,1,,,,,,,,,N,Dissemination of the fungal infection,N
+Cc2010-60,C103640512,12/29/2010,Heart Swab,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Infectious etiology (most likely bacterial),Y
+Cc2011-05,C112280390,8/13/2011,Heart Swab,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,1,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Bacterial enteritis accompanied by septicemia,Y
+Cc2011-07,C113120369,11/4/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,N,Septicemia and fibrous osteodystrophy,Y
+Cc2011-07,C113120369,11/4/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-09,C112560439,9/11/2011,Heart Swab,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Autolysis,N
+Cc2011-09,C112560439,9/11/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,N
+Cc2011-10,C112420502,8/26/2011,Heart Swab,,,,,,,1,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Autolysis,N
+Cc2011-11,C112420500,8/28/2011,Heart Swab,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,1,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Septicemia,Y
+Cc2011-13,C112340138,8/18/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Bacterial enteritis and septicemia,Y
+Cc2011-14,C112500493,9/3/2011,Heart Swab,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Bacterial enteritis,Y
+Cc2011-19,C112440375,8/30/2011,Heart Swab,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,N,Primary bacterial enteritis progressed to septicemia and abscess,Y
+Cc2011-20,C113190408,11/14/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,N,Fibrous osteodystrophy and septicemia,Y
+Cc2011-20,C113190408,11/14/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-22,C113260261,11/21/2011,Intestinal Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Septicemia,Y
+Cc2011-22,C113260261,11/21/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-23,C112700370,9/23/2011,Heart Swab,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,N,"heterophilic (likely bacterial) enteritis, septicemia in liver and fibrous osteodystrophy in bones",Y
+Cc2011-23,C112700370,9/23/2011,Intestinal Swab,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,Y
+Cc2011-25,C112490187,9/2/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,N,primary bacterial enteritis that progressed to septicemia,Y
+Cc2011-29,C113400207,12/4/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Septicemia,Y
+Cc2011-29,C113400207,12/4/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-33,C113480468,12/13/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Anemia or chronic disease and terminal bacterial infection,Y
+Cc2011-33,C113480468,12/13/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-34,C112770419,10/3/2011,Heart Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Fibrous osteodystrophy,N
+Cc2011-34,C112770419,10/3/2011,Intestinal Swab,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N
+Cc2011-39,C112590445,9/15/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Bacterial infection and fibrous osteodystrophy of nutritional origin,Y
+Cc2011-39,C112590445,9/15/2011,Intestinal Swab,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-41,C112690422,9/22/2011,Heart Swab,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,N,Bacterial infection and nutritional fibrous osteodystrophy,Y
+Cc2011-41,C112690422,9/22/2011,Intestinal Swab,,,,,,,,,,,1,,,,1,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-43,C113270493,11/22/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,
+Cc2011-44,C113260260,11/21/2011,Heart Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Septicemia,Y
+Cc2011-44,C113260260,11/21/2011,Intestinal Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-45,C112860457,10/12/2011,Heart Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,N,Fibrous osteodsytrophy and septicemia,Y
+Cc2011-45,C112860457,10/12/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Y
+Cc2011-48,C112770411,9/30/2011,Heart Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,N,Unknown,
+Cc2011-48,C112770411,9/30/2011,Intestinal Swab,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
+Cc2011-54,C112440374,8/30/2011,Heart Swab,,1,,,,,1,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,"Bacterial enteritis that
+progressed to septicemia",Y
+Cc2011-55,C112420504,8/28/2011,Heart Swab,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,,N,Primary bacterial enteritis that progressed to septicemia,Y
+Cc2011-57,C112450411,8/31/2011,Heart Swab,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Primary bacterial enteritis that progressed to septicemia,Y
+Cc2011-60,C112300485,8/16/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Enteritis and septicemia,Y
+Cc2011-62,C112910446,10/17/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Autolysis and septicemia,Y
+Cc2011-62,C112910446,10/17/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,,Y
+Cc2011-63,C112420501,8/28/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Primary bacterial enteritis progressed to septicemia,Y
+Cc2011-64,C112420503,8/28/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,N,primary bacterial enteritis accompanied by septicemia,Y
+Cc2011-66,C113550321,12/20/2011,Heart Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Unknown,
+Cc2011-66,C113550321,12/20/2011,Intestinal Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cc2011-67,C113460153,12/9/2011,Intestinal Swab,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,,,,,N,"Fibrous osteodsytrophy, termanal enteritis and chronic disease",Y
+Cc2011-68,C112440367,8/30/2011,Heart Swab,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Aspiration pneumonia,Y
+Cc2011-86,C113490333,12/14/2011,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Septicemia,Y
+Cc2011-86,C113490333,12/14/2011,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,
+Cc2011-100,C121080423,4/16/2012,Intestinal Swab,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,"transmural enteritis, secondary to bacterial infection.",Y
+Cc2011-100,C121080423,4/16/2012,Heart Swab,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Possible septicemia.,Y
+Cc2012-02,C122500412,9/5/2012,Intestinal Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Fibrous osteodystrophy,N
+Cc2012-02,C122500412,9/5/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cc2012-26,C123000352,10/25/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,"Fibrous osteodystrophy, bacterial enteritis and septicemia",Y
+Cc2012-26,C123000352,10/25/2012,Intestinal Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,
+Cc2012-35,C122500411,9/5/2012,Intestinal Swab,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Fibrous osteodystrophy,N
+Cc2012-35,C122500411,9/5/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cc2012-45,C122490418,9/2/2012,Intestinal Swab,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Fibrous osteodystrophy and possibly septicemia,Y
+Cc2012-45,C122490418,9/2/2012,Heart Swab,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,1,,,,,,,,
+Cc2012-46,C122510386,9/6/2012,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,Bacterial enteritis and Fibrous osteodystrophy,Y
+Cc2012-46,C122510386,9/6/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,
+Cc2012-46,C122510386,9/6/2012,Abnormal Mass Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,
+Cc2012-52,C122900263,10/13/2012,Intestinal Swab,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,N,"Fibrous osteodystrophy, enteritis and endocarditis",Y
+Cc2012-52,C122900263,10/13/2012,Heart Swab,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,
+Cc2012-06,C122570207,9/11/2012,Intestinal Swab,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,"Intralesional bacteria, Fibrous osteodystrophy",Y
+Cc2012-06,C122570207,9/11/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,
+Cc2012-19,C123460174,12/9/2012,Intestinal Swab,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Bacterial coelomitis,Y
+Cc2012-19,C123460174,12/9/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cc2013-58,C123460177,12/9/2012,Intestinal Swab,,,,,,,1,1,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Heterophilic and fibrinous coelomitis with intralesional bacteria,Y
+Cc2013-58,C123460177,12/9/2012,Heart Swab,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,
+Cc2012-57,C123460146,12/10/2012,Intestinal Swab,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,N,Bacterial coelomitis and depletion of mineralized bone with expansion of catrilage cores,Y
+Cc2012-57,C123460146,12/10/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,
+Cc2012-01,C123460144,12/10/2012,Intestinal Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,N,"Bacterial coelomitis, marked osteopenia and meningitis",Y
+Cc2012-01,C123460144,12/10/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,
+Cc2012-36,C12346176,12/9/2012,Intestinal Swab,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,Intralesional bacteria and focal granuloma in lung tissue,Y
+Cc2012-36,C12346176,12/9/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cc2012-16,C123590183,12/20/2012,Heart Swab,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+Cc2012-22,C123590180,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+Cc2012-39,C123590179,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+C2012-11,C123590192,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+C2012-60,C123590189,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+C2012-51,C123590188,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+Cc2012-03,C123590185,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+Cc2012-13,C123590182,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+Cc2012-04,C123590181,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+Cc2012-09,C123590175,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,,N,Metabolic bone disease and anemia,N
+Cc2012-17,C123590190,12/20/2012,Heart Swab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,N,"Metabolic bone disease, anemia and edma",N
+Cc2013-23,C141690226,6/14/2014,Heart Swab ,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,,,Coalescing hererophilic and granulomatous splenitis,Y
+Cc2013-08,C132540301,9/10/2014,Lung Swab,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,Gall bladder dilation caused by poor appetite or constriction in colon ,N
+Cc2013-08,C132540302,9/10/2014,Heart Swab,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,
+Cc2014-10,C142310155,8/17/2014,Heart Swab,,,,,,,,,,,,1,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,1,,,,,,,Circumferential transmural necrosis of intestines,Y
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Total,1,15,15,2,1,7,19,10,2,1,7,6,9,7,13,13,13,4,2,60,8,1,3,1,5,1,4,104,1,1,1,1,3,2,153,5,1,1,1,1,3,1,7,2,3,15,89,1,1,11,50,4,62,1,3,11,1,34,8,2,2,18,4,2,,,,
+,,,Infectious agent,Acinetobacter sp.,Aeromonas sp.,Aeromonas hydrophila,Aeromonas sobria,Alcaligenes faecalis,Alcaligenes xylosoxidans,Bacillus sp.,Bacillus cereus,Burkholdria cepacia,Chromobacterium violaceum,Citrobacter sp.,Citrobacter freundii,Clostridium sp.,Corynebacterium sp.,Enterics,Enterobacter sp.,Entercoccus sp.,Escherichia coli,,Gram Negative Nonfermenter,Gram Negative Rod,Gram Possitive Rod,Gram Negative pleomorphic Rod,Klebsiella pneumoniae,Klebsiella oxytoca,Listonella anguilarum,Mixed anaerobes,Mixed Bacterial Growth,Moraxella sp.,Morazella osloensis,Morganella sp.,Morganella morganii,Mycobacterium sp. (Rapidly-Growing),Negative Culture Anaerobes,Negative Culture Salmonella,Nocardia sp.,Ochrobactrum sp.,Pantoea sp.,Pasteurella sp.,Penicillium sp.,Photobacterium damselae,Probidencia sp.,Proteus sp.,Proteus mirabilis,Proteus vulgaris,Pseudomonas sp.,Pseudomonas aeruginosa,Pseudomonas pseudoalcaligenes,Pseudomonas putida,Rhodococcus equi,Salmonella sp.,Shewanella sp.,Shewanella putrefaciens,Sphingomonas paucimonbilis,Staphylococcus sp.,Streptococcus sp.,Tsukamurella sp.,Vibrio sp.,Vibrio alginolyticus,Vibrio fluvialis,Vibrio harveyi,Vibrio parahaemolyticus,Vibrio vuluificus,Negative Culture Vibrio sp.,,,,
+,,,Total,1,9,10,2,1,5,15,7,2,0,4,6,7,5,8,11,6,4,,40,7,1,2,1,3,1,3,69,0,1,0,1,3,2,93,3,0,0,1,1,0,0,2,1,1,13,48,0,0,7,27,4,29,0,1,8,0,23,6,1,0,10,4,0,,,,

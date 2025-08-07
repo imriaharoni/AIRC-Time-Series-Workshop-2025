@@ -1,0 +1,155 @@
+# Time Series Analysis Course - Cursor Project Rules
+
+## Project Overview
+This is an educational time series analysis course with 6 lectures and corresponding exercises covering:
+- Lecture 1: Time series components, synthetic data generation, missing data handling
+- Lecture 2: Stationarity, decomposition, autocorrelation analysis
+- Lecture 3: Exponential smoothing, ARIMA modeling, auto-ARIMA
+- Lecture 4-5: Supervised learning approaches for time series, feature engineering
+- Lecture 6: Deep learning methods (RNN, LSTM, GRU) for time series
+
+## Code Standards & Best Practices
+
+### Import Organization
+- Use consistent import structure across all notebooks
+- Standard imports first: `pandas as pd`, `numpy as np`, `matplotlib.pyplot as plt`
+- Add warning suppression: `import warnings; warnings.filterwarnings('ignore')`
+- Group related imports: statsmodels, sklearn, tensorflow/keras
+- Use clear alias conventions: `import statsmodels as sm`
+
+### Code Quality
+- Write clean, educational code with clear variable names
+- Include descriptive comments explaining time series concepts
+- Use consistent function naming conventions (snake_case)
+- Maintain modular functions for reusability across lectures
+- Always validate data types and handle edge cases appropriately
+
+### Data Handling
+- Use pandas datetime index for all time series data
+- Consistent frequency setting (daily, weekly, monthly)
+- Implement proper missing value handling techniques
+- Validate data integrity before analysis
+- Use descriptive column names and clear data transformations
+
+### Visualization Standards
+- Use matplotlib with consistent figure sizing: `figsize=(8, 4)` for single plots
+- Include proper titles, axis labels, and legends
+- Use appropriate colors and line styles for clarity
+- Add grid for better readability: `plt.grid(True)`
+- Implement subplot layouts for component analysis
+- Use hvplot for interactive visualizations when beneficial
+
+### Machine Learning Practices
+- Proper train/test splits with time series considerations
+- Use appropriate scaling (MinMaxScaler, StandardScaler) for neural networks
+- Implement proper feature engineering for supervised learning
+- Create window/lag features systematically
+- Use appropriate evaluation metrics (RMSE, MAE, MAPE)
+- Include model validation and performance visualization
+
+## Technical Requirements
+
+### Required Libraries
+- **Core**: pandas, numpy, matplotlib
+- **Statistical**: statsmodels (ARIMA, decomposition, tests)
+- **ML**: scikit-learn (preprocessing, metrics, regression)
+- **Deep Learning**: tensorflow, keras (RNN, LSTM, GRU)
+- **Visualization**: hvplot for interactive plots
+- **Auto-modeling**: pmdarima for automatic ARIMA selection
+- **Data**: pydataset for sample datasets
+
+### Data Management
+- Store datasets in `Data_sets/` directory
+- Use consistent file naming conventions
+- Support multiple data formats (CSV, time series specific)
+- Include both synthetic and real-world datasets
+- Maintain data documentation and source information
+
+### Notebook Structure
+- Clear section headers using markdown cells
+- Separate imports, data loading, analysis, and visualization
+- Include exercise instructions and solution examples
+- Use numbered cells for logical progression
+- Add learning objectives at the beginning
+- Include "Write your code here" placeholders for exercises
+
+## Educational Guidelines
+
+### Learning Progression
+- Build concepts incrementally from basic to advanced
+- Provide clear explanations of time series concepts
+- Include both theoretical background and practical implementation
+- Show multiple approaches to solve similar problems
+- Demonstrate when to use different methods
+
+### Exercise Design
+- Create hands-on exercises that reinforce lecture concepts
+- Provide step-by-step instructions with expected outcomes
+- Include both guided and open-ended problems
+- Show solution examples with detailed explanations
+- Encourage experimentation with parameters and methods
+
+### Code Documentation
+- Comment complex time series transformations
+- Explain parameter choices for models
+- Document expected output formats
+- Include references to statistical concepts
+- Provide context for real-world applications
+
+## Development Workflow
+
+### File Organization
+- Lecture notebooks: `Lecture-N.ipynb`
+- Exercise notebooks: `Lecture-N_Exercise.ipynb`
+- Datasets: `Data_sets/` with subdirectories as needed
+- Maintain consistent numbering and naming
+
+### Version Control
+- Commit notebooks with cleared outputs for cleaner diffs
+- Use descriptive commit messages for educational content
+- Tag major lecture completions
+- Maintain separate branches for development vs. teaching
+
+### Testing & Validation
+- Test all code examples before lectures
+- Validate dataset loading and preprocessing
+- Check model training convergence
+- Verify visualization outputs
+- Test exercise instructions for clarity
+
+## Model-Specific Guidelines
+
+### Classical Methods
+- Use statsmodels for ARIMA, exponential smoothing
+- Implement proper stationarity testing (ADF, KPSS)
+- Show decomposition analysis before modeling
+- Include residual analysis and diagnostic plots
+
+### Machine Learning
+- Create appropriate lag features for supervised learning
+- Use proper cross-validation for time series
+- Implement walk-forward validation when appropriate
+- Show feature importance analysis
+
+### Deep Learning
+- Use keras/tensorflow for neural networks
+- Implement proper data reshaping for RNN inputs
+- Use appropriate loss functions and optimizers
+- Include early stopping and model checkpointing
+- Show training curves and validation metrics
+
+## Error Handling & Debugging
+- Include proper exception handling for data loading
+- Validate model inputs and outputs
+- Check for common time series pitfalls (data leakage, look-ahead bias)
+- Provide clear error messages for students
+- Include troubleshooting tips in comments
+
+## Performance Considerations
+- Optimize for educational clarity over performance
+- Use reasonable dataset sizes for classroom environment
+- Include timing for long-running processes
+- Provide alternatives for computationally intensive methods
+- Consider memory usage for large datasets
+
+Remember: This is an educational environment. Prioritize code clarity, concept explanation, and learning outcomes over optimization. Always provide context for why specific methods are chosen and their real-world applications.
